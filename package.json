@@ -1,0 +1,17 @@
+{
+  "name": "signmanager",
+  "version": "1.0.0",
+  "description": "A Node App Used to Send Commands to Lithonia Lighting Sign",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "signmanager": "app.js"
+  },
+  "author": "Jacob Beneski",
+  "license": "Apache",
+  "dependencies": {
+  
+  }
+}
