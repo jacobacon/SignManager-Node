@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> efddd01831b293fe3272a0ae4f9340ba08bef045
 {
   "name": "signmanager",
   "version": "1.0.0",
@@ -16,3 +20,25 @@
     "serialport": "^4.0.7"
   }
 }
+<<<<<<< HEAD
+=======
+=======
+{
+  "name": "signmanager",
+  "version": "1.0.0",
+  "description": "A Node App Used to Send Commands to Lithonia Lighting Sign",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "signmanager": "app.js"
+  },
+  "author": "Jacob Beneski",
+  "license": "Apache-2.0",
+  "dependencies": {
+  
+  }
+}
+>>>>>>> 3d33a0df81a9be88373b0ec660a9ccf4d50c5df4
+>>>>>>> efddd01831b293fe3272a0ae4f9340ba08bef045
